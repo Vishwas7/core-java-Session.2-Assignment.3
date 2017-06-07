@@ -1,0 +1,9 @@
+
+Session.2 Assignment.3
+
+what is JIT?
+
+(JIT) Just-In-Time compiler is a feature of the run-time interpreter, 
+that instead of interpreting bytecode every time a method is invoked, 
+will compile the bytecode into the machine code instructions of the 
+running machine, and then invoke this object code instead.
